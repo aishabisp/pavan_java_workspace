@@ -1,0 +1,19 @@
+package day8;
+
+public class Studentmain {
+
+	public static void main(String[] args) {
+	 Student stud1=new Student();
+	 stud1.sname="mizna";
+	 stud1.grade='A';
+	 Student stud2=new Student();
+	 stud2.sname="aaliya";
+	 stud2.grade='A';
+	 stud1.show();
+	 stud2.show();
+	 
+	 
+
+	}
+
+}
